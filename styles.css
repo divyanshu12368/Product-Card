@@ -62,15 +62,6 @@ body {
   margin-bottom: 16px;
 }
 
-/* ===== Options ===== */
-.product-options {
-  display: flex;
-  gap: 10px;
-}
-
-.option {
-  flex: 1;
-}
 
 select {
   width: 100%;
@@ -119,4 +110,5 @@ select {
 .icon {
   font-size: 16px;
   font-weight: bold;
+  text-decoration: none;
 }
